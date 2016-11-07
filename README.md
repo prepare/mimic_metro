@@ -1,7 +1,5 @@
 for study!
 
-MetroFramework - WinForms on steroids.
-
 
 License
 -------
